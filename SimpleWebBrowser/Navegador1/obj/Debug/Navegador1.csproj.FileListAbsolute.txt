@@ -1,0 +1,8 @@
+c:\users\hellriser\documents\visual studio 2015\Projects\Navegador1\Navegador1\bin\Debug\Navegador1.exe.config
+c:\users\hellriser\documents\visual studio 2015\Projects\Navegador1\Navegador1\bin\Debug\Navegador1.exe
+c:\users\hellriser\documents\visual studio 2015\Projects\Navegador1\Navegador1\bin\Debug\Navegador1.pdb
+c:\users\hellriser\documents\visual studio 2015\Projects\Navegador1\Navegador1\obj\Debug\Navegador1.FalloutDrox.resources
+c:\users\hellriser\documents\visual studio 2015\Projects\Navegador1\Navegador1\obj\Debug\Navegador1.Properties.Resources.resources
+c:\users\hellriser\documents\visual studio 2015\Projects\Navegador1\Navegador1\obj\Debug\Navegador1.csproj.GenerateResource.Cache
+c:\users\hellriser\documents\visual studio 2015\Projects\Navegador1\Navegador1\obj\Debug\Navegador1.exe
+c:\users\hellriser\documents\visual studio 2015\Projects\Navegador1\Navegador1\obj\Debug\Navegador1.pdb
